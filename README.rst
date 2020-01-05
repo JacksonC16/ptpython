@@ -10,7 +10,7 @@ ptpython
 .. image :: https://github.com/jonathanslenders/ptpython/raw/master/docs/images/example1.png
 
 |Build Status|
-
+[![Run on Repl.it](https://repl.it/badge/github/prompt-toolkit/ptpython)](https://repl.it/github/prompt-toolkit/ptpython)
 Ptpython is an advanced Python REPL. It should work on all
 Python versions from 2.6 up to 3.7 and work cross platform (Linux,
 BSD, OS X and Windows).
